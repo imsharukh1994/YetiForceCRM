@@ -1,3 +1,15 @@
+
+# We've moved!
+
+ Hi! This repository is no longer being used and has been archived for historical purposes.
+
+ - 🐞 **Bugs**: Reports of bugs can be filed against our new repo [YetiForce/issues](https://github.com/YetiForceCompany/YetiForce/issues).
+ - ⭐ **Feature request**: Add your request or discuss the project w/the community at [YetiForce/discussions](https://github.com/YetiForceCompany/YetiForce/discussions).
+
+ For more information on the move, see our comment about [this transition](https://github.com/YetiForceCompany/YetiForce/discussions/27).
+ 
+ We look forward to seeing you in our new spaces!
+#
 ![awards_all_eng_new](https://user-images.githubusercontent.com/10197525/47670510-aa6e9880-dbad-11e8-9720-be7f34dba9e1.jpg)
 
 [![Unit tests](https://github.com/YetiForceCompany/YetiForceCRM/actions/workflows/tests.yml/badge.svg?branch=developer)](https://github.com/YetiForceCompany/YetiForceCRM/actions/workflows/tests.yml)
